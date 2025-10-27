@@ -1,0 +1,15 @@
+/workspaces/csharpproject/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1
+/workspaces/csharpproject/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.deps.json
+/workspaces/csharpproject/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.runtimeconfig.json
+/workspaces/csharpproject/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.dll
+/workspaces/csharpproject/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.pdb
+/workspaces/csharpproject/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/csharpproject/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfoInputs.cache
+/workspaces/csharpproject/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfo.cs
+/workspaces/csharpproject/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/workspaces/csharpproject/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.sourcelink.json
+/workspaces/csharpproject/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.dll
+/workspaces/csharpproject/ConsoleApp1/obj/Debug/net8.0/refint/ConsoleApp1.dll
+/workspaces/csharpproject/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.pdb
+/workspaces/csharpproject/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.genruntimeconfig.cache
+/workspaces/csharpproject/ConsoleApp1/obj/Debug/net8.0/ref/ConsoleApp1.dll
